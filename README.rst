@@ -16,6 +16,8 @@ Each week students pull the most recent lab content by executing::
 Resources
 ---------
 
+Below are various resources that will be useful during the semester.
+
 Getting Started
 ...............
 
@@ -25,17 +27,11 @@ Getting Started
 
 #. CAN FD Support in Virtual CAN (vcan) in SocketCAN: https://stackoverflow.com/questions/36568167/can-fd-support-for-virtual-can-vcan-on-socketcan
 
-#. Using C with SocketCAN: https://www.can-cia.org/fileadmin/resources/documents/proceedings/2012_kleine-budde.pdf
+#. [advanced] Using C with SocketCAN: https://www.can-cia.org/fileadmin/resources/documents/proceedings/2012_kleine-budde.pdf
 
 
 Attack History
 ..............
-
-#. Python supply chain issue in the news: https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/
-
-#. Sam Curry:  attacking multiple OEM fleets via telematics. https://twitter.com/samwcyo/status/1597792097175674880 
-
-#. Sam Curry: another attack (03 JAN 2023) https://samcurry.net/web-hackers-vs-the-auto-industry/
 
 #. Wired: Jeep Hack I https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
 
@@ -44,6 +40,16 @@ Attack History
 #. Wired: Univ of Mich Grad Students Homework: https://www.wired.com/2016/08/researchers-hack-big-rig-truck-hijack-accelerator-brakes/
 
 #. Video of Univ of Mich Grad Students: https://www.youtube.com/watch?v=kG91j2JL7F0
+
+#. Python supply chain issue in the news: https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/
+
+#. Sam Curry:  attacking multiple OEM fleets via telematics. https://twitter.com/samwcyo/status/1597792097175674880 
+
+#. Sam Curry: another attack (03 JAN 2023) https://samcurry.net/web-hackers-vs-the-auto-industry/
+
+#. VM reused 'master' keys for 20 years: https://www.theregister.com/2016/08/11/car_lock_hack/
+
+#. [attack?] Internet search: tractor engine tuner.
 
 Defense
 .......
@@ -69,7 +75,7 @@ Books
 
 ----
 
-*popular press*
+*Popular press*
 
 #. "The Code Book", Simon Singh. Anchor. ISBN-13 978-0385495325.
 
