@@ -53,15 +53,23 @@ Defense
 Books
 .....
 
+*If you want to buy a book for the course*
+
 #. "Serious Cryptography", Jean-Philippe Aumasson. No Starch Press. ISBN-13 978-1593278267.
 
 ----
+
+*Really good textbooks*
 
 #. "Understanding Cryptography", Christof Paar. Springer. ISBN-13 978-3642041006.
 
 #. "Cryptography Engineering", Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. Wiley. ISBN-13 978-0470474242.
 
 #. "Security Engineering", Ross Anderson. Wiley. ISBN-13 978-1119642787.
+
+----
+
+*popular press*
 
 #. "The Code Book", Simon Singh. Anchor. ISBN-13 978-0385495325.
 
