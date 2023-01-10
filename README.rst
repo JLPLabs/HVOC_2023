@@ -59,10 +59,13 @@ Defense
 Books
 .....
 
-*If you want to buy a book for the course*
+
+*If you want to buy a book(s) for the course*
 
 #. "Serious Cryptography", Jean-Philippe Aumasson. No Starch Press. ISBN-13 978-1593278267.
 
+#. "The Car Hacker's Handbook", Craig Smith. No Starch Press. ISBN-13 978-1593277031.
+ 
 ----
 
 *Really good textbooks*
