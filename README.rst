@@ -5,11 +5,6 @@ Spring 2023 Iowa State University Ag Engr 590 Course on "Hacking Vehicle
 On-board Communications"
 
 
-Welcome Letter
---------------
-
-Welcome to the lab. 
-
 `Welcome & Setup <docs/welcome.rst>`_
 
 Use
