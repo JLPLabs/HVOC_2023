@@ -8,10 +8,9 @@ On-board Communications"
 Welcome Letter
 --------------
 
-Welcome to the lab. The following letter provides an overview and some
-information on setting up your laptop.
+Welcome to the lab. 
 
-`Welcome <docs/welcome.rst>`
+`Welcome & Setup <docs/welcome.rst>`_
 
 Use
 ---
