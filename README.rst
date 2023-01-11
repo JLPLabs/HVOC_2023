@@ -16,9 +16,8 @@ Each week students pull the most recent lab content by executing::
 Schedule
 --------
 
-.. figure:: img/lab_schedule.png
+.. image:: img/lab_schedule.png
 
-	The caption.
 
 Resources
 ---------
