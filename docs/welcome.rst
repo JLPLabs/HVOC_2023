@@ -1,8 +1,39 @@
 Welcome
 =======
 
-Overview
---------
+HVOC -- Hacking Vehicle On-board Communications
+
+* This semester you will use a simulated SAE J1939 vehicle network to
+  demonstrate methods to protect and attack messages sent between vehicle controllers.
+
+* You will use a virtual machine (VM) use as your lab bench.
+
+* The VM is for your indivual use.
+
+* The VM is already configured for simulating CANBUS.
+
+* You will write or edit (small) python scripts:
+
+	* sometimes to provide and/or validate security of your design.
+	* sometimes to attack a security scheme provided by the instructor.
+
+* In the course of the semester you will see the techniques you learned applied
+  to two *proposals* for international standards relevant to securing vehicle on-board
+  communications used in agricultural equipment.
+
+Login Before First Class
+------------------------
+
+Please log into your VM *before* the first day of class.
+
+* You will receive an invitation to your VM via email
+
+* Use these `instructions <AzureLabServicesGUI>`_ to get started.
+
+	* Note: you will install an X-window client. 
+
+Overview/Lab Inspiration
+------------------------
 
 Our (Truck, Bus, Ag, i.e., SAE J1939) lab environment was inspired by this
 automotive simulator, "ICSim" (IC means "instrument cluster"). The video shows
@@ -13,7 +44,10 @@ created.  `Virtual Network Introduction <Virtual_Network_Introduction.pdf>`_
 	:scale: 50 %
 	:alt: network layout, including instrument cluster
 
-	The network provided by ICSim.
+	The network provided by ICSim. The game controller (or keyboard) is used to
+    provide automotive signals on the virtual CAN bus ('vcan0'). The instrument
+	cluster reads CAN messages, extracts the signal, converts to engineering units
+    and then displays the results on the simulated instrument cluster.
 
 
 Video
@@ -36,7 +70,3 @@ ICSim -- Rising Tide Cybersecurity "Introducing CAN and ICSim" `video <https://w
 * 15:30 -- cansend
  
 
-Week 1 Setup
-------------
-
-busy, busy, busy
