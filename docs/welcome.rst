@@ -8,7 +8,7 @@ HVOC -- Hacking Vehicle On-board Communications
 
 * You will use a virtual machine (VM) use as your lab bench.
 
-* The VM is for your indivual use.
+* The VM is for your individual use.
 
 * The VM is already configured for simulating CANBUS.
 
@@ -28,7 +28,7 @@ Please log into your VM *before* the first day of class.
 
 * You will receive an invitation to your VM via email
 
-* Use these `instructions <AzureLabServicesGUI>`_ to get started.
+* Use these `instructions <AzureLabServicesGUI.docx>`_ to get started.
 
   * Note: you will install an X-window client. 
 
