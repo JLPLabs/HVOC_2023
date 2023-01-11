@@ -4,8 +4,9 @@ Welcome
 Overview
 --------
 
-.. figure:: docs/ICSim_and_spoofing.png
-	:size: 70%
+.. figure:: ICSim_and_spoofing.png
+	:scale: 70 %
+	:alt: network layout, including instrument cluster
 
 	The network provided by ICSim along with one kind of attack.
 
