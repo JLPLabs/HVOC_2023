@@ -12,7 +12,7 @@ Overview
 The video shows setting up and using ICSim. 
 
 Perhaps you prefer reading... here is a summary I created.
-`Virtual Network Introduction <docs/Virtual_Network_Introduction.pdf>`_
+`Virtual Network Introduction <Virtual_Network_Introduction.pdf>`_
 
 Video
 .....
