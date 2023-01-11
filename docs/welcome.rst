@@ -4,11 +4,14 @@ Welcome
 Overview
 --------
 
-.. figure:: ICSim_and_spoofing.png
-	:scale: 70 %
+Our (Truck, Bus, Ag, i.e., SAE J1939) lab environment was inspired by this
+automotive simulator.
+
+.. figure:: ICSim_overview.png
+	:scale: 50 %
 	:alt: network layout, including instrument cluster
 
-	The network provided by ICSim along with one kind of attack.
+	The network provided by ICSim.
 
 The video shows setting up and using ICSim. 
 
@@ -17,15 +20,17 @@ Perhaps you prefer reading... here is a summary I created.
 
 Video
 .....
-Watch this video on car hacking simulation environment, "ICSim", that inspired our lab.
+
+This video shows the car hacking simulation environment, "ICSim", that inspired our lab.
 
 ICSim -- Rising Tide Cybersecurity "Introducing CAN and ICSim" `video <https://www.youtube.com/watch?v=CxS-S91DWxY>_`
 
-1:18 -- CAN
-3:00 -- Linux support of 'can' / 'vcan'
-3:30 -- can-utils
 
-<can skip the install of ICSim... your VM already has what you need>
+* 1:18 -- CAN
+* 3:00 -- Linux support of 'can' / 'vcan'
+* 3:30 -- can-utils
+
+* <can skip the install of ICSim... your VM already has what you need>
 
 
 
