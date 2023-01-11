@@ -28,7 +28,7 @@ Please log into your VM *before* the first day of class.
 
 * You will receive an invitation to your VM via email
 
-* Use these `instructions <AzureLabServicesGUI.docx>`_ to get started.
+* Use these `instructions <AzureLabServicesGUI.pdf>`_ to get started.
 
   * Note: you will install an X-window client. 
 
