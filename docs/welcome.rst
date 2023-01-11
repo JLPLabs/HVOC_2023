@@ -14,8 +14,8 @@ HVOC -- Hacking Vehicle On-board Communications
 
 * You will write or edit (small) python scripts:
 
-	* sometimes to provide and/or validate security of your design.
-	* sometimes to attack a security scheme provided by the instructor.
+  * sometimes to provide and/or validate security of your design.
+  * sometimes to attack a security scheme provided by the instructor.
 
 * In the course of the semester you will see the techniques you learned applied
   to two *proposals* for international standards relevant to securing vehicle on-board
@@ -30,7 +30,7 @@ Please log into your VM *before* the first day of class.
 
 * Use these `instructions <AzureLabServicesGUI>`_ to get started.
 
-	* Note: you will install an X-window client. 
+  * Note: you will install an X-window client. 
 
 Overview/Lab Inspiration
 ------------------------
