@@ -40,12 +40,12 @@ automotive simulator, "ICSim" (IC means "instrument cluster"). The video link be
 setting up and using ICSim.  
 
 .. figure:: ICSim_overview.png
-	:scale: 50 %
-	:alt: network layout, including instrument cluster
+   :scale: 50 %
+   :alt: network layout, including instrument cluster
 
-	The network provided by ICSim. The game controller (or keyboard) is used to
+    The network provided by ICSim. The game controller (or keyboard) is used to
     provide automotive signals on the virtual CAN bus ('vcan0'). The instrument
-	cluster reads CAN messages, extracts the signal, converts to engineering units
+    cluster reads CAN messages, extracts the signal, converts to engineering units
     and then displays the results on the simulated instrument cluster.
 
 
