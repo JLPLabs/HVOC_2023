@@ -52,3 +52,10 @@
 #. Select **Yes**.
 
 #. Select **Yes**.
+
+----
+
+**NOTE!**  If it took you awhile (more than 5-10 minutes) to work through the instructions above,
+you will need to go back to steps 1) and 2) to make sure your VM is running.
+
+Once you know your VM is running you can use X2Go to connect to it.
