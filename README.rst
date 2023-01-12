@@ -16,7 +16,9 @@ Each week students:
 #. Login to `Azure Lab Services <https://labs.azure.com/virtualmachines?feature_vnext=true>`_ and make sure their VM is started.
 
 
-#. Log into their VM and pull the most recent lab content by executing::
+#. Log into their VM using their xclient.
+
+#. Prepare their environment by pulling the most recent lab content::
 
 	$ git pull
 
