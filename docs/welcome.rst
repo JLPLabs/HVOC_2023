@@ -17,7 +17,7 @@ HVOC -- Hacking Vehicle On-board Communications
   * sometimes to provide and/or validate security of your design.
   * sometimes to attack a security scheme provided by the instructor.
 
-* In the course of the semester you will see the techniques you learned applied
+* During the semester, you will see the techniques you learned applied
   to two *proposals* for international standards relevant to securing vehicle on-board
   communications used in agricultural equipment.
 
@@ -35,10 +35,9 @@ Please log into your VM *before* the first day of class.
 Overview/Lab Inspiration
 ------------------------
 
-Our (Truck, Bus, Ag, i.e., SAE J1939) lab environment was inspired by this
-automotive simulator, "ICSim" (IC means "instrument cluster"). The video shows
-setting up and using ICSim.  Perhaps you prefer reading... here is a summary I
-created.  `Virtual Network Introduction <Virtual_Network_Introduction.pdf>`_
+Our (Truck, Bus, Ag, i.e., SAE J1939) lab environment was inspired by the
+automotive simulator, "ICSim" (IC means "instrument cluster"). The video link below shows
+setting up and using ICSim.  
 
 .. figure:: ICSim_overview.png
 	:scale: 50 %
@@ -69,4 +68,4 @@ ICSim -- Rising Tide Cybersecurity "Introducing CAN and ICSim" `video <https://w
 * 14:30 -- candump
 * 15:30 -- cansend
  
-
+Perhaps you prefer reading... here is a summary I created.  `Virtual Network Introduction <Virtual_Network_Introduction.pdf>`_
