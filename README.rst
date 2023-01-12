@@ -7,10 +7,16 @@ On-board Communications"
 
 `Welcome & Setup <docs/welcome.rst>`_
 
+
 Use
 ---
 
-Each week students pull the most recent lab content by executing::
+Each week students:
+
+#. Login to `Azure Lab Services <https://labs.azure.com/virtualmachines?feature_vnext=true>`_ and make sure their VM is started.
+
+
+#. Log into their VM and pull the most recent lab content by executing::
 
 	$ git pull
 
