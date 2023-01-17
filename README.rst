@@ -45,6 +45,8 @@ Getting Started
 
 #. [advanced] Using C with SocketCAN: https://www.can-cia.org/fileadmin/resources/documents/proceedings/2012_kleine-budde.pdf
 
+#. [advanced] The Linux Kernel and SocketCAN https://docs.kernel.org/networking/can.html
+
 
 Attack History
 ..............
