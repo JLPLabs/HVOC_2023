@@ -8,6 +8,11 @@ On-board Communications"
 `Welcome & Setup <docs/welcome.rst>`_
 
 
+FICAA
+-----
+
+Used in every lab this semester: `FICAA <FICAA.pdf>`_
+
 Use
 ---
 
