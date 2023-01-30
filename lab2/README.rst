@@ -1,7 +1,7 @@
 LAB 2
 =====
 
-This week you demonstrate that encryption alone is NOT security
+This week you demonstrate that encryption alone is NOT security.
 
 `FICAA <../FICAA.pdf>`_
 
