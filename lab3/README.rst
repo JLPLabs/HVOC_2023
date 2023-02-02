@@ -1,12 +1,13 @@
-LAB 2
+LAB 3
 =====
 
-This week you demonstrate that encryption alone is NOT security.
+This week you demonstrate freshness. And then show even fresh messages can be
+replayed.
 
 `FICAA <../FICAA.pdf>`_
 
-`Classroom Slides <Lab2_classroom.pdf>`_
+`Classroom Slides <Lab3_classroom.pdf>`_
 
 
-`Lab assignment <lab2.pdf>`_
+`Lab assignment <lab3.pdf>`_
 
