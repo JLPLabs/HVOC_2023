@@ -61,7 +61,7 @@ Case Study in Reverse Engineering an ECU
 This four-part blog is a tremendous resource for those wanting to learn about reverse engineering an ECU.
 Why it is interesting...
 
-    Even though the rack was introduced back in 2008, support for Lane Keep Assist (LKAS)
+    Even though the (steering) rack was introduced back in 2008, support for Lane Keep Assist (LKAS)
     or Heading Control Assist (HCA) in VW terminology, is already present. This makes it possible
     to use this car with openpilot, an open source driver assistance system
 
