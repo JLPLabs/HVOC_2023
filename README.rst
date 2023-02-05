@@ -53,6 +53,19 @@ Getting Started
 #. [advanced] The Linux Kernel and SocketCAN https://docs.kernel.org/networking/can.html
 
 
+Case Study in Reverse Engineering an ECU
+........................................
+
+#. Hacking a VW Golf Power Steering ECU: https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/
+
+This four-part blog is a tremendous resource for those wanting to learn about reverse engineering an ECU.
+Why it is interesting...
+
+    Even though the rack was introduced back in 2008, support for Lane Keep Assist (LKAS)
+    or Heading Control Assist (HCA) in VW terminology, is already present. This makes it possible
+    to use this car with openpilot, an open source driver assistance system
+
+
 Attack History
 ..............
 
