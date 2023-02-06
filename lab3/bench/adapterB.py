@@ -15,7 +15,7 @@ nonce = bytes.fromhex("00000000 00000000 00000000 000000")   # nonce
 
 def adapter(msg):
    global count
-   count = count + 1
+   count = (count + 1) % 256
 
    cipher = Cipher(algorithms.AES(Sx), modes.ECB())
    encryptor = cipher.encryptor()
