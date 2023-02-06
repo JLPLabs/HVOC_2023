@@ -2,7 +2,7 @@ LAB 3
 =====
 
 This week you demonstrate freshness. And then show even fresh messages can be
-replayed.
+replayed (e.g., say the freshness space is exhausted).
 
 `FICAA <../FICAA.pdf>`_
 
