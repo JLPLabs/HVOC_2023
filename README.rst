@@ -27,6 +27,15 @@ Each week students:
 
 	$ git pull
 
+modprobe: FATAL
+---------------
+
+It seems from time-to-time our Linux kernel 'forgets' the socketCAN module... 
+
+To recover::
+
+        $ sudo apt-get install -y linux-modules-extra-$(uname -r)
+
 
 Schedule
 --------
