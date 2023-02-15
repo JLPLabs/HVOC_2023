@@ -16,3 +16,5 @@ NIST 800-38B
 This document is useful in that it provides the math you need to make tradeoffs regarding tag length and lifespan of the key.
 
 `NIST 800-38B <../papers/NIST.SP.800-38B.pdf>`_
+
+NOTE:  In the 2016 update to 38B the `examples <https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Standards-and-Guidelines/documents/examples/AES_CMAC.pdf>`_ were moved.
