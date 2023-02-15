@@ -11,3 +11,8 @@ byte of security overhead can provide pretty good security.
 
 `Lab assignment <lab4.pdf>`_
 
+NIST 800-38B
+------------
+This document is useful in that it provides the math you need to make tradeoffs regarding tag length and lifespan of the key.
+
+`NIST 800-38B <../papers/NIST.SP.800-38B.pdf>`_
