@@ -22,6 +22,7 @@ channel = 'vcan0'
 sa      = 0x40
 Ka = PrivateKey.generate()
 Pa = Ka.public_key
+sharedsecret = bytes.fromhex("00")
 sharedkey = bytes.fromhex("00")
 
 #------------------------------------------------------------------------------
@@ -53,7 +54,9 @@ def arbid_decode(arbid):
   priority = arbid >> 18
   return priority, pgn, sa
 
-# given the other node's public key we can calculate the shared key
+# given the other node's public key we can calculate:
+# 1. The shared secret
+# 2. The shared key (from the shared secret)
 def readcanbus(msg):
     global Ka
     arbid = msg.arbitration_id
@@ -62,9 +65,14 @@ def readcanbus(msg):
     if pgn == 0xCAFE:
         Pb = bytes(data)
         boxerBA = Box(Ka, PublicKey(Pb))
-        sharedkey = boxerBA.shared_key()
-        # since we want an AES-128 key we only need 16 bytes
-        sharedkey = sharedkey[:16]
+        sharedsecret = boxerBA.shared_key()   # library docs make this sound
+                                              # like a shared secret, despite
+                                              # its name.
+        # use a Key Derivation Function (KDF) to convert secret into an AES-128 key
+        # (that means we need 16 bytes from the kdf)
+        kdf = ...
+        sharedkey = kdf(...)
+
         print("[nodeA] the shared key is: %s" % (sharedkey.hex(" ", 4)), flush=True)
     else:
         print("[nodeA] unexpected PGN received: [%x]\n" % (pgn))
