@@ -8,6 +8,8 @@ byte of security overhead can provide pretty good security.
 
 `Classroom Slides <Lab4_classroom.pdf>`_
 
+`Classroom Slides week 2 <Lab4_classroom_wk2.pdf>`_
+
 
 `Lab assignment <lab4.pdf>`_
 
