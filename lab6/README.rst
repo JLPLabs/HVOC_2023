@@ -1,7 +1,7 @@
 LAB 6
 =====
 
-In this lab you demonstrate elliptic curve cryptography to help with the hard part of security: key management.
+Attacking the hard part of security: key management. You will use elliptic-curve Diffie-Hellman along with techniques used in Ag Product Security to generate session keys on each power cycle.
 
 `FICAA <../FICAA.pdf>`_
 
