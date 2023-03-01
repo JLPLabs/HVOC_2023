@@ -12,7 +12,7 @@ print(xb.hex(" ", 4))            # example: 61e015f7 920a8f0a
 y = secrets.randbits(64)
 yb = y.to_bytes(8, "big")        # example: 13a56ccd bed1a7c8
 
-zb = xs + ys
+zb = xb + yb
 print(zb.hex(" ", 4))            # example: 61e015f7 920a8f0a 13a56ccd bed1a7c8
 
 Sn = bytes.fromhex("00000000 11111111 22222222 33333333")
