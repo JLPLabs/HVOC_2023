@@ -9,6 +9,11 @@ Attacking the hard part of security: key management. You will use elliptic-curve
 
 `Lab assignment <lab6.pdf>`_
 
+Curve25519 Paper
+----------------
+
+`Curve25519 New Diffie-Hellman Speed Record <../papers/Curve25519_new_Diffie_Hellman_speed_records-Bernstein.pdf>`_
+
 RFC 7748
 --------
 
