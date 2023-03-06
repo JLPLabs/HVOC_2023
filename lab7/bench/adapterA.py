@@ -23,6 +23,6 @@ with open(ka_name, "rb") as key_file:
 boxopenerBA = Box(PrivateKey(Ka), PublicKey(Pb))
 
 def adapter(msg):
-   global boxerpenerBA
+   global boxopenerBA 
 
    return msg
