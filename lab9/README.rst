@@ -9,5 +9,4 @@ Final project
 
 `Summary of Semester <Lab9_Summary.pdf>`_
 
-`Lab assignment <lab9.pdf>`_
 
